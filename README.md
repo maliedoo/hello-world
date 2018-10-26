@@ -1,5 +1,4 @@
-# hello-world
+Update README 1.1.0
 
-1,2,3,44,5,
-testing
-one, two, three.
+This completes the README Update. 
+Version 1.1.0 Completed.
